@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"dev-app","Source":"./my_app_infra","Dir":"my_app_infra"},{"Key":"prod-app","Source":"./my_app_infra","Dir":"my_app_infra"},{"Key":"stg-app","Source":"./my_app_infra","Dir":"my_app_infra"}]}
